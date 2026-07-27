@@ -67,12 +67,6 @@ _A few rows showing the structured columns plus the raw transcript audit trail._
 ![Google Sheets with logged entries](screenshots/sheets-output.png)
 
 
-To use these, save your actual screenshot files into a `screenshots/` folder
-with those exact filenames, then delete the ` ```markdown ` code fences above
-so the images render directly instead of showing as text.
-
----
-
 ## Project structure
 
 ```
