@@ -1,0 +1,13 @@
+.env
+credentials.json
+*.wav
+temp_audio.wav
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.DS_Store
+venv/
+env/
+*.egg-info/
+dist/
+build/

@@ -1,0 +1,11 @@
+streamlit>=1.41.0
+google-generativeai>=0.7.0
+gspread>=6.0.0
+google-auth>=2.29.0
+pydantic>=2.7.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+flask>=3.0.0
+soundfile>=0.12.1
+numpy>=1.26.0
+groq>=0.9.0
