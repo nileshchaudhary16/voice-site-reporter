@@ -49,21 +49,21 @@ they'll render automatically wherever this file is viewed (GitHub, etc.).
 
 **Streamlit app — multi-entry extraction**
 _Shows one voice note describing several updates, split into separate editable entries._
-```markdown
+
 ![Streamlit app showing extracted entries](screenshots/streamlit-entries.png)
-```
+
 
 **WhatsApp — confirm-before-log flow**
 _Voice note → bot's summary reply → worker replies YES → confirmation._
-```markdown
+
 ![WhatsApp confirmation flow](screenshots/whatsapp-flow.png)
-```
+
 
 **Google Sheets — logged output**
 _A few rows showing the structured columns plus the raw transcript audit trail._
-```markdown
+
 ![Google Sheets with logged entries](screenshots/sheets-output.png)
-```
+
 
 To use these, save your actual screenshot files into a `screenshots/` folder
 with those exact filenames, then delete the ` ```markdown ` code fences above
