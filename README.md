@@ -52,10 +52,14 @@ _Shows one voice note describing several updates, split into separate editable e
 
 ![Streamlit app showing extracted entries](screenshots/streamlit-entries.png)
 
+<br>
+
 **WhatsApp — confirm-before-log flow**
 _Voice note → bot's summary reply → worker replies YES → confirmation._
 
 ![WhatsApp confirmation flow](screenshots/whatsapp-flow.png)
+
+<br>
 
 **Google Sheets — logged output**
 _A few rows showing the structured columns plus the raw transcript audit trail._
